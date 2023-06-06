@@ -1,3 +1,3 @@
 # meghana
 This My First Repository
-This is my first commit
+This is my first committ
